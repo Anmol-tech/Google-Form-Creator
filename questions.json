@@ -1,0 +1,30 @@
+{
+	"FormTitle": "Test Form",
+	"FormDescription": "Testing automation on Google Form",
+	"questions": [
+		{
+			"question": "Name",
+			"type": "Short Answer",
+			"options": [],
+			"required": true
+		},
+		{
+			"question": "Address",
+			"type": "Paragraph",
+			"options": [],
+			"required": true
+		},
+		{
+			"question": "Branch",
+			"type": "Multiple Choice",
+			"options": ["CSE", "ECE", "EEE", "IT"],
+			"required": true
+		},
+		{
+			"question": "Interest",
+			"type": "Checkboxes",
+			"options": ["AI", "WEB-D", "Android", "Game Dev", "Flutter", "Cloud"],
+			"required": true
+		}
+	]
+}

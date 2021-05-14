@@ -1,0 +1,16 @@
+{
+	"name": "create-google-forms",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cli-progress": "^3.9.0",
+		"prompt-sync": "^4.2.0",
+		"puppeteer": "^9.1.1"
+	}
+}
