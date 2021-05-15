@@ -4,14 +4,10 @@ const input = require("./input");
 const cliProgress = require("cli-progress");
 const _colors = require("colors");
 
-let id = "testemail5047";
-let pass = "Test@1234";
-filePath = "questions.json";
-
-// let data = input.getData();
-// let id = data[0];
-// let pass = data[1];
-// let filePath = data[2];
+let data = input.getData();
+let id = data[0];
+let pass = data[1];
+let filePath = data[2];
 
 let progressbar = new cliProgress.SingleBar({
 	format:
