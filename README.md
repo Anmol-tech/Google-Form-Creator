@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> This script will create Google Form from a JSON file
     <br> 
 </p>
 
@@ -71,4 +71,3 @@ Can be used to generate Multiple google Form by providing json file.
 ## ✍️ Authors <a id = "authors"></a>
 
 - [@Anmol-tech](https://github.com/Anmol-tech)
-
