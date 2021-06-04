@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://raw.githubusercontent.com/Anmol-tech/Media/master/Google%20Form%20Creater%20icon.gif?token=AM2NSSV7NBLRRT4CVCRIYB3AVA5BE" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/Anmol-tech/Media/blob/master/Google%20Form%20Creater%20icon.gif?raw=true" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Google Form Creator</h3>
